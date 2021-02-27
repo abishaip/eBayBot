@@ -1,0 +1,2 @@
+# eBayBot
+eBay Discord bot
