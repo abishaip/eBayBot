@@ -15,4 +15,4 @@ async def on_message(message):
         bottest_channel = client.get_channel(815330331070693436)
         await bottest_channel.send('test')
 
-client.run('ODE1MzI4MjEwMzI0NTUzNzQ4.YDqzkQ.tfSw7TgMeWwsSGA5mPMbBimUZ-E')
+client.run(token)
